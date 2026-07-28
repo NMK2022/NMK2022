@@ -1,7 +1,5 @@
 ## Hello 🌻
 <br>
-<br>
-
 My name is Nita, and I am a PhD Candidate at the University of Michigan. 
 
 <br>
@@ -15,9 +13,6 @@ You can read the first aim of my dissertation [here](https://www.medrxiv.org/con
 <br>
 
 Along with coding in R, I have experience using SAS, HTML, and CSS. However, I am always seeking to expand my programming knowledge.
-
-<br>
-##
 
 <!--
 **NMK2022/NMK2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
