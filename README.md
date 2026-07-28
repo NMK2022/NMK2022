@@ -1,10 +1,6 @@
 ## Hello 🌻
 <br>
-My name is Nita, and I am a PhD Candidate at the University of Michigan. 
-
-<br>
-
-I currently work on research related to how social and environmental exposures impact differences in later life DNA methylation.  
+My name is Nita, and I am a PhD Candidate at the University of Michigan. I currently work on research related to how social and environmental exposures impact differences in later life DNA methylation.  
 
 <br>
 
