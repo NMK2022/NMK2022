@@ -3,6 +3,7 @@
 My name is Nita, and I am a PhD Candidate at the University of Michigan. I currently work on research related to how social and environmental exposures impact differences in later life DNA methylation.  
 
 <br>
+<br>
 
 You can read the first aim of my dissertation [here](https://www.medrxiv.org/content/10.64898/2026.07.24.26358676v1) and the code used to carry out the research can be found in this [repo](https://github.com/bakulskilab/EarlyLife_DNAm_HRS).
 
